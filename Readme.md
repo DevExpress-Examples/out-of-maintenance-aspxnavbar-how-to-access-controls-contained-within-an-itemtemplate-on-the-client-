@@ -7,6 +7,9 @@
 * [WebUserControl.ascx.cs](./CS/WebSite/WebUserControl.ascx.cs) (VB: [WebUserControl.ascx.vb](./VB/WebSite/WebUserControl.ascx.vb))
 <!-- default file list end -->
 # ASPxNavBar - How to access controls contained within an ItemTemplate on the client side
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e144/)**
+<!-- run online end -->
 
 
 <p>This sample demonstrates how a check box editor, contained within a navbar's ItemTempate, can be accessed on the client side by using the editor's ClientInstanceName property value generated dynamically.</p><p><strong>See Also:</strong><br />
