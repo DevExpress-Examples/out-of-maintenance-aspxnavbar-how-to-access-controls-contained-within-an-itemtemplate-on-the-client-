@@ -7,8 +7,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
-using DevExpress.Web.ASPxNavBar;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 
 public partial class ASPxperience_NavBar_ClientAccessToControlsInTemplate : System.Web.UI.Page 
 {

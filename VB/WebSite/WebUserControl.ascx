@@ -1,5 +1,5 @@
 <%@ Control Language="vb" AutoEventWireup="true" CodeFile="WebUserControl.ascx.vb" Inherits="WebUserControl" %>
-<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxEditors" TagPrefix="dxe" %>
+<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web" TagPrefix="dxe" %>
 
 
 
