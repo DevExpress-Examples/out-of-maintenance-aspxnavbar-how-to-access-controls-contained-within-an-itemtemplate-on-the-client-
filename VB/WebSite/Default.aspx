@@ -2,8 +2,8 @@
 <%@ Page Language="vb" AutoEventWireup="true"  CodeFile="Default.aspx.vb" Inherits="ASPxperience_NavBar_ClientAccessToControlsInTemplate" %>
 
 <%@ Register Src="WebUserControl.ascx" TagName="WebUserControl" TagPrefix="uc1" %>
-<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web" TagPrefix="dxnb" %>
-<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web" TagPrefix="dxe" %>
+<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web" TagPrefix="dxnb" %>
+<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web" TagPrefix="dxe" %>
 <%-- EndRegion --%>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
